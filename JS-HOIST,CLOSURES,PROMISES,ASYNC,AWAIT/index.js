@@ -29,16 +29,16 @@
 // object destructuring
 
 const myBiodata={
-    "name":"abhishekh",
+    "names":"abhishekh",
     "age":23,
     "school":"masai",
     "likes":"yoyo"
 }
 
 
-let{name,age,school,likes}=myBiodata;
+let{names,age,school,likes}=myBiodata;
 
-console.log(name)
+console.log(names)
 console.log(age)
 console.log(school)
 console.log(likes)
