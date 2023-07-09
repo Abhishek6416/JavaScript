@@ -30,7 +30,7 @@
 
 const myBiodata={
     "name":"abhishekh",
-    "age":23,
+    "age":25,
     "school":"masai",
     "likes":"yoyos"
 }
